@@ -3,4 +3,4 @@ def sub(a, b) :
     print(c)
 
 
-sub(1, 2)
+sub(1, 4)
