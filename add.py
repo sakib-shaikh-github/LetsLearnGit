@@ -3,4 +3,4 @@ def add(a, b) :
     print(c)
 
 
-add(1, 2)
+add(1, 4)
